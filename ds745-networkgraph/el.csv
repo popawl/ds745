@@ -1,0 +1,576 @@
+﻿relocation_id,benefit_name
+12,Book a hotel
+12,Connect utilities
+12,Deposit for rental home
+12,Find a fitness class
+12,Find some local activities and recreation
+12,Forward your mail
+12,Get new furnishings
+12,Get Uber or Lyft credits
+12,Miscellaneous expense allowance
+12,Pay broker's fees
+12,Rent a new home
+12,Ship your stuff - basic service
+12,Stay in temporary housing
+12,Stock your fridge
+12,Travel allowance
+45,Connect utilities
+45,Deposit for rental home
+45,Forward your mail
+45,Get moving supplies
+45,Help your spouse or partner find a new job
+45,Miscellaneous expense allowance
+45,Ship your stuff - basic service
+45,Travel allowance
+45,Update your pet's tags
+47,Cancel your lease
+47,Deposit for rental home
+47,Get new furnishings
+48,Book a flight
+48,Buy home improvement supplies
+48,Drive your vehicle
+48,Forward your mail
+48,Get a new home loan
+48,Get new furnishings
+48,Get your place ready to sell
+48,Miscellaneous expense allowance
+48,Reimburse your home sale costs
+48,Travel allowance
+49,Book a flight
+49,Book a hotel
+49,Buy home improvement supplies
+49,Cancel your lease
+49,Connect utilities
+49,Deposit for rental home
+49,Drive your vehicle
+49,Find some local activities and recreation
+49,Get Uber or Lyft credits
+49,Miscellaneous expense allowance
+49,Rent a car
+49,Ship your stuff - basic service
+49,Ship your vehicle
+49,Travel allowance
+50,Drive your vehicle
+50,Get new furnishings
+50,Get your place ready to sell
+50,Home purchase support
+50,Home sale support
+50,Miscellaneous expense allowance
+50,Move-out cleaning
+50,Ship your stuff - basic service
+50,Travel allowance
+50,Update your pet's tags
+51,Book a flight
+51,Book a hotel
+51,Cancel your lease
+51,Get a new home loan
+51,Home purchase support
+51,Miscellaneous expense allowance
+51,Pay for your closing costs
+51,Ship your stuff - standard service
+51,Travel allowance
+52,Cancel your lease
+52,Deposit for rental home
+52,Discard and donate
+52,Get new furnishings
+52,Get Uber or Lyft credits
+52,Miscellaneous expense allowance
+52,Rent a car
+52,Ship your stuff - standard service
+52,Store your stuff
+52,Travel allowance
+53,Book a flight
+53,Buy home improvement supplies
+53,Deposit for rental home
+53,Get new furnishings
+53,Get Uber or Lyft credits
+53,Get your place ready to sell
+53,Miscellaneous expense allowance
+53,Stay in temporary housing
+54,Book a flight
+54,Connect utilities
+54,Deposit for rental home
+54,Miscellaneous expense allowance
+54,Pick up the essentials
+54,Rent a new home
+54,Ship your stuff - standard service
+54,Ship your vehicle
+54,Stay in temporary housing
+110,Travel allowance
+111,Connect utilities
+111,Find some local activities and recreation
+111,Get new furnishings
+111,Miscellaneous expense allowance
+111,Pick up the essentials
+111,Travel allowance
+112,Get a new home loan
+112,Get new furnishings
+112,Home sale support
+112,Search for schools
+114,Ship your stuff - standard service
+114,Stay in temporary housing
+116,Get a new home loan
+116,Home purchase support
+116,Search for schools
+118,Book a flight
+118,Connect utilities
+118,Forward your mail
+118,Get moving supplies
+118,Get new furnishings
+118,Get Uber credits
+118,Join a gym
+118,Miscellaneous expense allowance
+118,Pick up the essentials
+118,Rent a car
+118,Ship your stuff - basic service
+118,Ship your vehicle
+118,Stay in temporary housing
+118,Stock your fridge
+118,Travel allowance
+119,Get a new home loan
+119,Home purchase support
+119,Stay in temporary housing
+119,Travel allowance
+120,Book a flight
+120,Book a hotel
+120,Get Uber credits
+120,Miscellaneous expense allowance
+120,Ship your stuff - standard service
+120,Ship your vehicle
+120,Travel allowance
+126,Book a hotel
+126,Buy home improvement supplies
+126,Cancel your lease
+126,Drive your vehicle
+126,Get moving supplies
+126,Get new furnishings
+126,Miscellaneous expense allowance
+126,Move-out cleaning
+126,Pick up the essentials
+126,Ship your stuff - basic service
+127,Book a hotel
+127,Rent a new home
+127,Sell your home - Buyer Value Option (BVO)
+130,Book a hotel
+132,Book a flight
+132,Book a hotel
+132,Rent a car
+132,Travel allowance
+133,Forward your mail
+133,Get Uber credits
+133,Miscellaneous expense allowance
+133,Ship your stuff - basic service
+134,Get Uber credits
+134,Miscellaneous expense allowance
+134,Travel allowance
+136,Book a flight
+136,Miscellaneous expense allowance
+136,Ship your stuff - basic service
+136,Stay in temporary housing
+140,Get Uber credits
+140,Miscellaneous expense allowance
+140,Travel allowance
+142,Book a hotel
+142,Drive your vehicle
+142,Forward your mail
+142,Get Uber credits
+142,Miscellaneous expense allowance
+142,Rent a new home
+142,Ship your stuff - standard service
+142,Travel allowance
+143,Buy home improvement supplies
+143,Get new furnishings
+143,Get Uber credits
+143,Pick up the essentials
+148,Rent a new home
+151,Buy home improvement supplies
+151,Find a fitness class
+151,Get new furnishings
+151,Get Uber credits
+151,Miscellaneous expense allowance
+151,Pick up the essentials
+151,Travel allowance
+152,Home purchase support
+155,Book a flight
+155,Cancel your lease
+155,Get a new home loan
+155,Home purchase support
+155,Travel allowance
+159,Book a flight
+159,Book a hotel
+159,Miscellaneous expense allowance
+159,Rent a car
+159,Rent a new home
+159,Ship your stuff - basic service
+159,Ship your vehicle
+159,Travel allowance
+160,Book a flight
+160,Cancel your lease
+160,Deposit for rental home
+160,Forward your mail
+160,Miscellaneous expense allowance
+160,Ship your stuff - standard service
+161,Get new furnishings
+161,Get Uber credits
+161,Pick up the essentials
+162,Miscellaneous expense allowance
+162,Ship your stuff - standard service
+162,Travel allowance
+163,Miscellaneous expense allowance
+163,Travel allowance
+165,Get new furnishings
+165,Miscellaneous expense allowance
+165,Ship your stuff - standard service
+166,Book a flight
+166,Get new furnishings
+166,Miscellaneous expense allowance
+166,Pick up the essentials
+168,Miscellaneous expense allowance
+169,Get new furnishings
+169,Have dinner delivered on move-in day
+169,Miscellaneous expense allowance
+169,Pick up the essentials
+169,Stock your fridge
+169,Travel allowance
+171,Book a flight
+171,Book a hotel
+171,Find some local activities and recreation
+171,Forward your mail
+171,Get Uber credits
+171,Miscellaneous expense allowance
+171,Pick up the essentials
+171,Rent a car
+171,Ship your stuff - basic service
+171,Travel allowance
+174,Ship your stuff - standard service
+176,Book a hotel
+176,Drive to find a place
+176,Get new furnishings
+176,Get Uber credits
+176,Miscellaneous expense allowance
+176,Pick up the essentials
+176,Rent a new home
+176,Travel allowance
+181,Cancel your lease
+181,Get Uber credits
+181,Miscellaneous expense allowance
+181,Rent a car
+181,Travel allowance
+182,Book a flight
+182,Book a hotel
+182,Connect utilities
+182,Deposit for rental home
+182,Drive your vehicle
+182,Forward your mail
+182,Get moving supplies
+182,Rent a car
+182,Ship your stuff - basic service
+182,Ship your vehicle
+182,Stay in temporary housing
+184,Book a flight
+184,Book a hotel
+184,Get Uber credits
+184,Move-out cleaning
+184,Pick up the essentials
+184,Rent a new home
+184,Ship your stuff - standard service
+184,Ship your vehicle
+184,Stay in temporary housing
+184,Store your stuff
+184,Travel allowance
+186,Get new furnishings
+186,Get Uber credits
+186,Miscellaneous expense allowance
+186,Pick up the essentials
+186,Travel allowance
+187,Book a flight
+187,Book a hotel
+187,Get Uber credits
+187,Miscellaneous expense allowance
+187,Travel allowance
+188,Sell your home - Buyer Value Option (BVO)
+189,Miscellaneous expense allowance
+189,Ship your stuff - basic service
+192,Buy home improvement supplies
+192,Forward your mail
+192,Get new furnishings
+192,Miscellaneous expense allowance
+192,Pick up the essentials
+192,Ship your stuff - premium service
+192,Ship your vehicle
+194,Get Uber credits
+194,Miscellaneous expense allowance
+194,Rent a new home
+194,Ship your stuff - standard service
+194,Travel allowance
+203,Miscellaneous expense allowance
+203,Ship your stuff - standard service
+204,Miscellaneous expense allowance
+204,Ship your stuff - standard service
+205,Miscellaneous expense allowance
+205,Travel allowance
+206,Forward your mail
+206,Get Uber credits
+206,Miscellaneous expense allowance
+207,Get new furnishings
+207,Pick up the essentials
+207,Ship your stuff - basic service
+208,Book a flight
+208,Ship your stuff - basic service
+209,Book a hotel
+209,Cancel your lease
+209,Ship your stuff - basic service
+209,Stay in temporary housing
+209,Store your stuff
+209,Travel allowance
+210,Ship your stuff - premium service
+212,Deposit for rental home
+212,Ship your stuff - standard service
+214,Cancel your lease
+214,Deposit for rental home
+214,Get new furnishings
+214,Miscellaneous expense allowance
+214,Rent a new home
+214,Ship some special stuff
+214,Ship your stuff - basic service
+217,Find some local activities and recreation
+217,Miscellaneous expense allowance
+217,Sell your home - Buyer Value Option (BVO)
+217,Update your pet's tags
+219,Book a hotel
+219,Get Uber credits
+219,Miscellaneous expense allowance
+219,Pick up the essentials
+219,Rent a car
+219,Ship your stuff yourself
+219,Stock your fridge
+220,Stay in temporary housing
+222,Book a hotel
+222,Get Uber credits
+222,Ship your stuff - basic service
+222,Travel allowance
+223,Book a flight
+223,Travel allowance
+226,Book a hotel
+226,Forward your mail
+226,Miscellaneous expense allowance
+226,Move-out cleaning
+226,Rent a new home
+226,Ship your stuff - standard service
+226,Stay in temporary housing
+226,Travel allowance
+227,Book a hotel
+227,Get new furnishings
+227,Get Uber credits
+227,Miscellaneous expense allowance
+227,Rent a car
+227,Ship your stuff - standard service
+227,Stay in temporary housing
+227,Travel allowance
+228,Deposit for rental home
+228,Fix a few things
+228,Get new furnishings
+228,Miscellaneous expense allowance
+228,Pick up the essentials
+228,Stock your fridge
+228,Travel allowance
+229,Miscellaneous expense allowance
+229,Travel allowance
+234,Book a flight
+234,Book a hotel
+234,Cancel your lease
+234,Deposit for rental home
+234,Get new furnishings
+234,Miscellaneous expense allowance
+234,Pick up the essentials
+234,Ship your stuff - standard service
+234,Ship your vehicle
+234,Travel allowance
+267,Forward your mail
+267,Miscellaneous expense allowance
+267,Rent a new home
+267,Ship your stuff - premium service
+267,Ship your vehicle
+267,Travel allowance
+270,Buy home improvement supplies
+270,Deposit for rental home
+270,Get new furnishings
+270,Get Uber credits
+270,Miscellaneous expense allowance
+270,Pick up the essentials
+270,Update your pet's tags
+271,Book a hotel
+271,Get a new home loan
+271,Home purchase support
+271,Home sale support
+271,Rent a car
+272,Miscellaneous expense allowance
+273,Get new furnishings
+273,Miscellaneous expense allowance
+273,Pick up the essentials
+273,Rent a car
+273,Travel allowance
+274,Book a flight
+274,Buy home improvement supplies
+274,Connect utilities
+274,Discard and donate
+274,Forward your mail
+274,Get new furnishings
+274,Miscellaneous expense allowance
+274,Pick up the essentials
+274,Ship your stuff - premium service
+274,Ship your vehicle
+274,Stay in temporary housing
+274,Update your pet's tags
+275,Forward your mail
+275,Get organized
+275,Miscellaneous expense allowance
+275,Ship your stuff - standard service
+275,Ship your vehicle
+275,Travel allowance
+277,Connect utilities
+277,Find some local activities and recreation
+277,Forward your mail
+277,Get new furnishings
+277,Miscellaneous expense allowance
+278,Book a flight
+278,Connect utilities
+278,Deposit for rental home
+278,Discard and donate
+278,Fix a few things
+278,Get Uber credits
+278,Move-out cleaning
+278,Rent a new home
+278,Ship your stuff - premium service
+278,Travel allowance
+281,Deposit for rental home
+281,Get Uber credits
+281,Miscellaneous expense allowance
+281,Pick up the essentials
+281,Ship your stuff - basic service
+281,Travel allowance
+282,Miscellaneous expense allowance
+282,Ship your stuff - premium service
+283,Connect utilities
+283,Find some local activities and recreation
+283,Miscellaneous expense allowance
+283,Pick up the essentials
+283,Ship your stuff - standard service
+283,Update your pet's tags
+284,Get a new home loan
+284,Get moving supplies
+284,Home purchase support
+284,Search for schools
+284,Sell your home - Buyer Value Option (BVO)
+285,Book a flight
+285,Get new furnishings
+285,Get Uber credits
+285,Miscellaneous expense allowance
+285,Travel allowance
+286,Miscellaneous expense allowance
+290,Get a new home loan
+290,Home purchase support
+291,Find some local activities and recreation
+297,Get a new home loan
+297,Home purchase support
+298,Forward your mail
+298,Miscellaneous expense allowance
+298,Ship your stuff - standard service
+299,Book a hotel
+299,Get new furnishings
+299,Get Uber credits
+299,Miscellaneous expense allowance
+299,Pick up the essentials
+299,Rent a car
+299,Travel allowance
+300,Rent a new home
+302,Miscellaneous expense allowance
+303,Book a flight
+303,Book a hotel
+303,Miscellaneous expense allowance
+303,Ship your stuff - standard service
+303,Ship your vehicle
+306,Book a flight
+306,Book a hotel
+306,Home purchase support
+306,Miscellaneous expense allowance
+306,Rent a car
+306,Ship your stuff - standard service
+306,Travel allowance
+310,Ship your stuff - standard service
+311,Buy home improvement supplies
+311,Connect utilities
+311,Discard and donate
+311,Get a new home loan
+311,Miscellaneous expense allowance
+311,Pick up the essentials
+311,Ship your stuff - standard service
+311,Stay in temporary housing
+311,Store your stuff
+314,Book a hotel
+314,Get moving supplies
+314,Rent a car
+314,Sell your home - Buyer Value Option (BVO)
+314,Ship your stuff - basic service
+316,Get a new home loan
+316,Home purchase support
+316,Sell your home - Buyer Value Option (BVO)
+319,Book a flight
+319,Miscellaneous expense allowance
+319,Ship your stuff - basic service
+319,Ship your vehicle
+319,Travel allowance
+320,Ship your stuff - basic service
+323,Miscellaneous expense allowance
+323,Pick up the essentials
+326,Book a flight
+326,Pick up the essentials
+326,Travel allowance
+327,Ship your stuff - standard service
+328,Book a hotel
+328,Ship your stuff - premium service
+328,Ship your vehicle
+328,Stay in temporary housing
+328,Store your stuff
+328,Travel allowance
+331,Get a new home loan
+331,Home purchase support
+336,Get new furnishings
+336,Miscellaneous expense allowance
+337,Drive to find a place
+337,Get new furnishings
+337,Miscellaneous expense allowance
+337,Pick up the essentials
+337,Rent a new home
+337,Travel allowance
+339,Book a flight
+339,Book a hotel
+339,"Build, fix or install something"
+339,Connect utilities
+339,Forward your mail
+339,Get new furnishings
+339,Pick up the essentials
+339,Ship your stuff - basic service
+339,Travel allowance
+342,Ship your stuff - standard service
+344,Get a new home loan
+344,Sell your home - Buyer Value Option (BVO)
+345,Buy home improvement supplies
+345,Get new furnishings
+345,Miscellaneous expense allowance
+345,Pick up the essentials
+345,Ship your stuff - basic service
+345,Ship your vehicle
+345,Travel allowance
+348,Forward your mail
+348,Get moving supplies
+348,Get new furnishings
+348,Get Uber credits
+348,Miscellaneous expense allowance
+348,Pick up the essentials
+348,Ship a few boxes
+348,Stock your fridge
+348,Travel allowance
+353,Miscellaneous expense allowance
+357,Get a new home loan
+363,Get new furnishings

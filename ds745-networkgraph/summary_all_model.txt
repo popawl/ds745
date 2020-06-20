@@ -1,0 +1,32 @@
+
+==========================
+Summary of model fit
+==========================
+
+Formula:   pr1n ~ edges + nodematch("vehicle") + nodematch("child") + nodematch("spouse") + 
+    nodematch("parent") + nodematch("homeowner") + nodematch("homebuyer") + 
+    nodematch("level") + nodematch("pet") + nodematch("from_state") + 
+    nodematch("to_state")
+
+Iterations:  4 out of 20 
+
+Monte Carlo MLE Results:
+                     Estimate Std. Error MCMC % z value Pr(>|z|)    
+edges                -0.22978    0.08582      0  -2.678 0.007417 ** 
+nodematch.vehicle     0.02270    0.05176      0   0.439 0.660937    
+nodematch.child       0.15805    0.06060      0   2.608 0.009101 ** 
+nodematch.spouse     -0.18048    0.05462      0  -3.304 0.000953 ***
+nodematch.parent     -0.44714    0.07496      0  -5.965  < 1e-04 ***
+nodematch.homeowner   0.52916    0.06061      0   8.730  < 1e-04 ***
+nodematch.homebuyer   0.85659    0.06399      0  13.387  < 1e-04 ***
+nodematch.level       0.27269    0.06583      0   4.143  < 1e-04 ***
+nodematch.pet        -0.02185    0.05279      0  -0.414 0.678937    
+nodematch.from_state -0.01871    0.09858      0  -0.190 0.849433    
+nodematch.to_state    0.01604    0.05841      0   0.275 0.783637    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+     Null Deviance: 9570  on 6903  degrees of freedom
+ Residual Deviance: 8780  on 6892  degrees of freedom
+ 
+AIC: 8802    BIC: 8878    (Smaller is better.) 

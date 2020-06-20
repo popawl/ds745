@@ -1,0 +1,42 @@
+
+==========================
+Summary of model fit
+==========================
+
+Formula:   pr1n ~ edges + nodematch("child", diff = TRUE) + nodematch("spouse", 
+    diff = TRUE) + nodematch("homeowner", diff = TRUE) + nodematch("homebuyer", 
+    diff = TRUE) + nodematch("level", diff = TRUE)
+
+Iterations:  10 out of 20 
+
+Monte Carlo MLE Results:
+                       Estimate Std. Error MCMC % z value Pr(>|z|)    
+edges                  -0.67665    0.06076      0 -11.137  < 1e-04 ***
+nodematch.child.0       0.18941    0.06700      0   2.827  0.00470 ** 
+nodematch.child.1      -0.06795    0.12409      0  -0.548  0.58401    
+nodematch.spouse.0     -0.67176    0.07104      0  -9.456  < 1e-04 ***
+nodematch.spouse.1      0.45313    0.07929      0   5.715  < 1e-04 ***
+nodematch.homeowner.0   0.82399    0.06854      0  12.023  < 1e-04 ***
+nodematch.homeowner.1  -0.31861    0.12219      0  -2.607  0.00912 ** 
+nodematch.homebuyer.0   0.81700    0.06990      0  11.689  < 1e-04 ***
+nodematch.homebuyer.1   1.40224    0.20401      0   6.873  < 1e-04 ***
+nodematch.level.1      -1.50576    1.23255      0  -1.222  0.22183    
+nodematch.level.2       0.63288    0.25017      0   2.530  0.01141 *  
+nodematch.level.3       0.43998    0.07840      0   5.612  < 1e-04 ***
+nodematch.level.4      -0.25817    0.45068      0  -0.573  0.56675    
+nodematch.level.5       0.08324    0.16154      0   0.515  0.60635    
+nodematch.level.7       0.89194    0.43768      0   2.038  0.04156 *  
+nodematch.level.8      -0.79103    0.29171      0  -2.712  0.00669 ** 
+nodematch.level.10      1.58854    1.13236      0   1.403  0.16066    
+nodematch.level.11     11.78958  196.96769      0   0.060  0.95227    
+nodematch.level.12         -Inf    0.00000      0    -Inf  < 1e-04 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+     Null Deviance: 9570  on 6903  degrees of freedom
+ Residual Deviance: 8598  on 6884  degrees of freedom
+ 
+AIC: 8636    BIC: 8766    (Smaller is better.) 
+
+ Warning: The following terms have infinite coefficient estimates:
+  nodematch.level.12 
